@@ -25,6 +25,9 @@ module "team-external-students" {
     "tgray89",
     "tkav",
     "mayuthombre",
-    "samrdaymond"
+    "samrdaymond",
+    "julio-pimentel",
+    "passivemodding",
+    "williamchrisp"
   ]
 }
